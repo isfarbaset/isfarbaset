@@ -8,6 +8,7 @@
 
 🔗 [Portfolio](https://isfarbaset.georgetown.domains/dsan-website/_site/)  
 💼 [LinkedIn](https://linkedin.com/in/isfarbaset)  
+🫱🏼‍🫲🏽 [Handshake](https://georgetown.joinhandshake.com/profiles/ck7gh6)
 
 <!---
 isfarbaset/isfarbaset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
