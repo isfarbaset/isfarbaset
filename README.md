@@ -1,14 +1,56 @@
-👋 Hi, I’m Isfar!  
-👀 Interested in data science, software engineering, and AI-driven problem-solving  
-🌱 Currently learning ML workflows, LLM fine-tuning, and job hunting survival skills  
-🚀 Looking to collaborate on data-driven projects that blend engineering, automation, and visualization  
-📫 Reach me at [iib2@georgetown.edu](mailto:iib2@georgetown.edu) or [isfar.baset@gmail.com](mailto:isfar.baset@gmail.com)  
-😄 Pronouns: she/her  
-⚡ Fun fact: I run on coffee, sparkling water, and love exploring new cuisines and places  
+## Hello 👋🏼, I'm Isfar Baset
 
-🔗 [Portfolio](https://isfarbaset.georgetown.domains/dsan-website/_site/)  
-💼 [LinkedIn](https://linkedin.com/in/isfarbaset)  
-🫱🏼‍🫲🏽 [Handshake](https://georgetown.joinhandshake.com/profiles/ck7gh6)
+I'm a Data Scientist and Engineer with a passion for problem-solving, machine learning, and analytics. Currently pursuing my Master's in Data Science and Analytics at Georgetown University, I have experience working with data-driven decision-making across industries like Automotive, Finance, and Tech.
+
+Beyond work, I enjoy exploring new restaurants, hosting memorable dinner parties, strategizing over board games, and curating minimal yet engaging content for social media.
+
+### Let's Connect:
+- 🔗 [Portfolio](https://isfarbaset.georgetown.domains/dsan-website/_site/)
+- 💼 [LinkedIn](https://linkedin.com/in/isfarbaset)
+- 🫱🏼‍🫲🏽 [Handshake](https://georgetown.joinhandshake.com/profiles/ck7gh6)
+
+---
+
+## Recent Projects:
+
+- 🚀 **Developed** a machine learning pipeline to analyze trends in online discussions about U.S. states.
+- 📚 **Enhanced** my knowledge of cloud-based ML workflows and retrieval-augmented generation (RAG) models.
+- 🏗️ **Built** a dynamic job application tracker with real-time analytics and visualization.
+
+### Contact Me:
+Reach out at **iib2@georgetown.edu** or **isfar.baset@gmail.com**.
+
+---
+
+## About Me:
+
+- 🎓 Background in Computer Science, pivoted to Data Science for its impact potential.
+- ☕ Can’t start my day without coffee (seriously, don’t talk to me before my first sip!).
+- 📍 Based in Northern Virginia, but always down for spontaneous trips.
+- 🐈 Cat mom to Cairo, my energetic and occasionally chaotic pet.
+
+---
+
+## Tech & Tools I Use:
+
+### Languages & Frameworks:
+- Python | R | SQL | NumPy | Pandas | PySpark
+
+### Data & Cloud:
+- PostgreSQL | MongoDB | DuckDB | AWS | GCP | Azure
+
+### Analytics & Visualization:
+- Power BI | Tableau | Matplotlib | Seaborn | Plotly
+
+### MLOps & DevOps:
+- Docker | Kubernetes | TensorFlow | PyTorch | Kafka | Airflow | Git | VS Code
+
+---
+
+## GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=dark)
+
+---
 
 <!---
 isfarbaset/isfarbaset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
