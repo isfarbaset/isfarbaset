@@ -60,7 +60,10 @@ Reach out at **iib2@georgetown.edu** or **isfar.baset@gmail.com**.
 ---
 
 ## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isfarbaset&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isfarbaset&show_icons=true&theme=tokyonight&count_private=true)
+
+## GitHub Streak:
+![GitHub Streak](https://streak-stats.demolab.com/?user=isfarbaset&theme=highcontrast)
 
 ---
 
