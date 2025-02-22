@@ -33,17 +33,29 @@ Reach out at **iib2@georgetown.edu** or **isfar.baset@gmail.com**.
 
 ## Tech & Tools I Use:
 
-### Languages & Frameworks:
-- Python | R | SQL | NumPy | Pandas | PySpark
+### Programming:
+- Python, SQL, R, Java, C++
 
-### Data & Cloud:
-- PostgreSQL | MongoDB | DuckDB | AWS | GCP | Azure
+### Machine Learning:
+- Scikit-learn, TensorFlow, PyTorch, XGBoost
 
-### Analytics & Visualization:
-- Power BI | Tableau | Matplotlib | Seaborn | Plotly
+### Data Visualization:
+- Tableau, Plotly, Seaborn
 
-### MLOps & DevOps:
-- Docker | Kubernetes | TensorFlow | PyTorch | Kafka | Airflow | Git | VS Code
+### Big Data & Cloud:
+- Apache Spark, Databricks, AWS SageMaker
+
+### NLP:
+- spaCy, Hugging Face Transformers, BERT
+
+### Databases:
+- MySQL, PostgreSQL, MongoDB, Snowflake
+
+### Tools:
+- Docker, Flask, Git, Quarto, CI/CD pipelines
+
+### Statistical Methods:
+- A/B Testing, Regression, Bayesian Analysis
 
 ---
 
