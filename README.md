@@ -1,4 +1,4 @@
-## Hello 👋🏼, I'm Isfar Baset
+## Hello, I'm Isfar 👋🏼
 
 I'm a Data Scientist and Engineer with a passion for problem-solving, machine learning, and analytics. Currently pursuing my Master's in Data Science and Analytics at Georgetown University, I have experience working with data-driven decision-making across industries like Automotive, Finance, and Tech.
 
