@@ -13,7 +13,7 @@ Beyond work, I enjoy exploring new restaurants, hosting memorable dinner parties
 
 ## Recent Projects:
 
-- 🚀 **Developed** a machine learning pipeline to analyze trends in online discussions about U.S. states.
+- 🚀 [**Developed** a machine learning pipeline to analyze trends in online discussions about U.S. states.](https://isfarbaset.github.io/fall-2024-project-team-29/)
 - 📚 **Enhanced** my knowledge of cloud-based ML workflows and retrieval-augmented generation (RAG) models.
 - 🏗️ **Built** a dynamic job application tracker with real-time analytics and visualization.
 
