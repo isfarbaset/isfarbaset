@@ -18,7 +18,7 @@ Beyond work, I enjoy exploring new restaurants, hosting memorable dinner parties
 - 🏗️ **Built** a dynamic job application tracker with real-time analytics and visualization.
 
 ### Contact Me:
-Reach out at **iib2@georgetown.edu** or **isfar.baset@gmail.com**.
+📧 Reach out at **iib2@georgetown.edu** or **isfar.baset@gmail.com**.
 
 ---
 
