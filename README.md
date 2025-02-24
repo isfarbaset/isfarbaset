@@ -60,10 +60,10 @@ Beyond work, I enjoy exploring new restaurants, hosting memorable dinner parties
 ---
 
 ## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isfarbaset&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isfarbaset&show_icons=true&theme=tokyonight&count_private=false&cache_seconds=0)
 
 ## GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=isfarbaset&theme=highcontrast)
+![GitHub Streak](https://streak-stats.demolab.com/?user=isfarbaset&theme=highcontrast&cache_seconds=0)
 
 ---
 
