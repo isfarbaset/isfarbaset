@@ -18,16 +18,16 @@ Beyond work, I enjoy exploring new restaurants, hosting memorable dinner parties
 - 🏗️ **Built** a dynamic job application tracker with real-time analytics and visualization.
 
 ### Contact Me:
-📧 Reach out at **iib2@georgetown.edu** or **isfar.baset@gmail.com**.
+📧 Reach out at **iib2@georgetown.edu** or **isfar.baset@gmail.com**
 
 ---
 
 ## About Me:
 
-- 🎓 Background in Computer Science, pivoted to Data Science for its impact potential.
-- ☕ Can’t start my day without coffee (seriously, don’t talk to me before my first sip!).
-- 📍 Based in Northern Virginia/DC, but always down for spontaneous trips.
-- 🐈 Cat mom to Cairo, my energetic and occasionally chaotic pet.
+- 🎓 Background in Computer Science, pivoted to Data Science for its impact potential
+- ☕ Can’t start my day without coffee (seriously, don’t talk to me before my first sip!)
+- 📍 Based in Northern Virginia/DC, but always down for spontaneous trips
+- 🐈 Cat mom to Cairo, my energetic and occasionally chaotic pet
 
 ---
 
