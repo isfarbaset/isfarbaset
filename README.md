@@ -4,34 +4,33 @@ I'm a Data Scientist and Engineer with a passion for problem-solving, machine le
 
 Beyond work, I enjoy exploring new restaurants, hosting memorable dinner parties, strategizing over board games, and curating minimal yet engaging content for social media.
 
+---
+
 ### Let's Connect:
 - 🔗 [Portfolio](https://isfarbaset.georgetown.domains/dsan-website/_site/)
 - 💼 [LinkedIn](https://linkedin.com/in/isfarbaset)
 - 🫱🏼‍🫲🏽 [Handshake](https://georgetown.joinhandshake.com/profiles/ck7gh6)
-
----
-
-## Recent Projects:
-
-## Recent Projects:
-
-- 🤖 [**Built** an intelligent chatbot to assist with AWS FMBench documentation using LangGraph, FastAPI, and Streamlit.]([https://medium.com/@iib2/fmbench-assistant-an-ai-chatbot-to-navigate-aws-benchmarking-datasets-83cbbce9106a](https://medium.com/@isfarbaset/fmbench-assistant-an-ai-chatbot-for-navigating-foundation-model-benchmarking-with-fmbench-39615ff08161))
-- 🚀 [**Developed** a machine learning pipeline to analyze trends in online discussions about U.S. states.](https://isfarbaset.github.io/fall-2024-project-team-29/)
-- 🌡️ [**Explored** evolving climate trends in Southeastern Utah National Parks](https://isfarbaset.georgetown.domains/story-project/_site/)
-- 🚗 [**Analyzed** environmental impacts, market share, and performance trends of Electric Vehicles (EVs) versus gasoline vehicles using machine learning techniques](https://isfarbaset.georgetown.domains/dsan-website/_site/5000-website/)
-  
 
 ### Contact Me:
 📧 Reach out at **iib2@georgetown.edu** or **isfar.baset@gmail.com**
 
 ---
 
+## Recent Projects:
+
+- 🤖 [**Built** an intelligent chatbot to assist with AWS FMBench documentation using LangGraph, FastAPI, and Streamlit.](https://medium.com/@isfarbaset/fmbench-assistant-an-ai-chatbot-for-navigating-foundation-model-benchmarking-with-fmbench-39615ff08161)
+- 🚀 [**Developed** a machine learning pipeline to analyze trends in online discussions about U.S. states.](https://isfarbaset.github.io/fall-2024-project-team-29/)
+- 🌡️ [**Explored** evolving climate trends in Southeastern Utah National Parks](https://isfarbaset.georgetown.domains/story-project/_site/)
+- 🚗 [**Analyzed** environmental impacts, market share, and performance trends of Electric Vehicles (EVs) versus gasoline vehicles using machine learning techniques](https://isfarbaset.georgetown.domains/dsan-website/_site/5000-website/)
+
+---
+
 ## About Me:
 
 - 🎓 Background in Computer Science, pivoted to Data Science for its impact potential
-- ☕ Can’t start my day without coffee (seriously, don’t talk to me before my first sip!)
+- ☕ Running on coffee and curiosity (but mostly coffee)
 - 📍 Based in Northern Virginia/DC, but always down for spontaneous trips
-- 🐈 Cat mom to Cairo, my energetic and occasionally chaotic pet
+- 🐈 Cat parent to Cairo, my energetic and occasionally chaotic pet
 
 ---
 
@@ -70,6 +69,7 @@ Beyond work, I enjoy exploring new restaurants, hosting memorable dinner parties
 ![GitHub Streak](https://streak-stats.demolab.com/?user=isfarbaset&theme=highcontrast)
 
 ---
+✨ Curiosity-led. Detail-driven. Powered by coffee and purpose.
 
 <!---
 isfarbaset/isfarbaset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
