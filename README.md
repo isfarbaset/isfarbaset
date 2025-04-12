@@ -13,11 +13,13 @@ Beyond work, I enjoy exploring new restaurants, hosting memorable dinner parties
 
 ## Recent Projects:
 
+## Recent Projects:
+
+- 🤖 [**Built** an intelligent chatbot to assist with AWS FMBench documentation using LangGraph, FastAPI, and Streamlit.](https://medium.com/@iib2/fmbench-assistant-an-ai-chatbot-to-navigate-aws-benchmarking-datasets-83cbbce9106a)
 - 🚀 [**Developed** a machine learning pipeline to analyze trends in online discussions about U.S. states.](https://isfarbaset.github.io/fall-2024-project-team-29/)
 - 🌡️ [**Explored** evolving climate trends in Southeastern Utah National Parks](https://isfarbaset.georgetown.domains/story-project/_site/)
 - 🚗 [**Analyzed** environmental impacts, market share, and performance trends of Electric Vehicles (EVs) versus gasoline vehicles using machine learning techniques](https://isfarbaset.georgetown.domains/dsan-website/_site/5000-website/)
-- 📚 **Enhanced** my knowledge of cloud-based ML workflows and retrieval-augmented generation (RAG) models.
-
+  
 
 ### Contact Me:
 📧 Reach out at **iib2@georgetown.edu** or **isfar.baset@gmail.com**
