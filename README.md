@@ -69,7 +69,7 @@ Beyond work, I enjoy exploring new restaurants, hosting memorable dinner parties
 ![GitHub Streak](https://streak-stats.demolab.com/?user=isfarbaset&theme=highcontrast)
 
 ---
-✨ Curiosity-led. Detail-driven. Powered by coffee and purpose.
+> ✨ Curiosity-led. Detail-driven. Powered by coffee and purpose.
 
 <!---
 isfarbaset/isfarbaset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
