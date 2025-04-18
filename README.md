@@ -7,7 +7,7 @@ Beyond work, I enjoy exploring new restaurants, hosting memorable dinner parties
 ---
 
 ### Let's Connect:
-- 🔗 [Portfolio](https://isfarbaset.georgetown.domains/dsan-website/_site/)
+- 🔗 [Portfolio](https://isfarbaset.github.io/portfolio/)
 - 💼 [LinkedIn](https://linkedin.com/in/isfarbaset)
 - 🫱🏼‍🫲🏽 [Handshake](https://georgetown.joinhandshake.com/profiles/ck7gh6)
 
