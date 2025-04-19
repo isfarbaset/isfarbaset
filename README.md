@@ -21,7 +21,7 @@ Beyond work, I enjoy exploring new restaurants, hosting memorable dinner parties
 - 🤖 [**Built** an intelligent chatbot to assist with AWS FMBench documentation using LangGraph, FastAPI, and Streamlit.](https://medium.com/@isfarbaset/fmbench-assistant-an-ai-chatbot-for-navigating-foundation-model-benchmarking-with-fmbench-39615ff08161)
 - 🚀 [**Developed** a machine learning pipeline to analyze trends in online discussions about U.S. states.](https://isfarbaset.github.io/fall-2024-project-team-29/)
 - 🌡️ [**Explored** evolving climate trends in Southeastern Utah National Parks](https://isfarbaset.georgetown.domains/story-project/_site/)
-- 🚗 [**Analyzed** environmental impacts, market share, and performance trends of Electric Vehicles (EVs) versus gasoline vehicles using machine learning techniques](https://isfarbaset.georgetown.domains/dsan-website/_site/5000-website/)
+- 🚗 [**Analyzed** environmental impacts, market share, and performance trends of Electric Vehicles (EVs) versus gasoline vehicles using machine learning techniques](https://isfarbaset.github.io/ev-insights/)
 
 ---
 
