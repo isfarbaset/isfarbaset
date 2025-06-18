@@ -1,6 +1,6 @@
 ## Hello, I'm Isfar 👋🏼
 
-I'm a Data Scientist and Engineer with a passion for problem-solving, machine learning, and analytics. Currently pursuing my Master's in Data Science and Analytics at Georgetown University, I have experience working with data-driven decision-making across industries like Automotive, Finance, and Tech.
+I'm a Data Analyst II on the Data Operations and Analytics team within the Delivery and Software division at Shift Digital. I hold a Master’s degree in Data Science and Analytics from Georgetown University. My work focuses on using data to support internal operations and improve processes. I’ve also worked on projects in digital marketing, supporting clients in industries like automotive and hospitality.
 
 Beyond work, I enjoy exploring new restaurants, hosting memorable dinner parties, strategizing over board games, and curating minimal yet engaging content for social media.
 
