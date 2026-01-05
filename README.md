@@ -1,72 +1,67 @@
-## Hello, I'm Isfar 👋🏼
+## Hi, I’m Isfar 👋🏼
 
-I'm a Data Analyst II on the Data Operations and Analytics team within the Delivery and Software division at Shift Digital. I hold a Master’s degree in Data Science and Analytics from Georgetown University. My work focuses on using data to support internal operations and improve processes. I’ve also worked on projects in digital marketing, supporting clients in industries like automotive and hospitality.
-
-Beyond work, I enjoy exploring new restaurants, hosting memorable dinner parties, strategizing over board games, and curating minimal yet engaging content for social media.
-
----
-
-### Let's Connect:
-- 🔗 [Portfolio](https://isfarbaset.github.io/portfolio/)
-- 💼 [LinkedIn](https://linkedin.com/in/isfarbaset)
-- 🫱🏼‍🫲🏽 [Handshake](https://georgetown.joinhandshake.com/profiles/ck7gh6)
-
-### Contact Me:
-📧 Reach out at **iib2@georgetown.edu** or **isfar.baset@gmail.com**
+**TL;DR:**  
+Data Analyst II with an **M.S. in Data Science from Georgetown**, experienced in **operational analytics, machine learning, and scalable data solutions**, translating complex data into actionable insights across internal operations and digital marketing.
 
 ---
 
-## Recent Projects:
+I’m a **Data Analyst II** on the **Data Operations & Analytics** team at **Shift Digital**, where I design, analyze, and scale data solutions that support operational efficiency, stakeholder decision-making, and client-facing initiatives.
 
-- 🤖 [**Built** an intelligent chatbot to assist with AWS FMBench documentation using LangGraph, FastAPI, and Streamlit.](https://medium.com/@isfarbaset/fmbench-assistant-an-ai-chatbot-for-navigating-foundation-model-benchmarking-with-fmbench-39615ff08161)
-- 🚀 [**Developed** a machine learning pipeline to analyze trends in online discussions about U.S. states.](https://isfarbaset.github.io/fall-2024-project-team-29/)
-- 🌡️ [**Explored** evolving climate trends in Southeastern Utah National Parks](https://isfarbaset.georgetown.domains/story-project/_site/)
-- 🚗 [**Analyzed** environmental impacts, market share, and performance trends of Electric Vehicles (EVs) versus gasoline vehicles using machine learning techniques](https://isfarbaset.github.io/ev-insights/)
+My background spans **analytics engineering, applied machine learning, and statistical analysis**, with hands-on experience building **end-to-end pipelines**, automating workflows, and delivering insights in fast-paced, cross-functional environments. I’ve contributed to projects across **digital marketing**, **automotive**, and **hospitality**, balancing technical rigor with clear business communication.
 
 ---
 
-## About Me:
-
-- 🎓 Background in Computer Science, pivoted to Data Science for its impact potential
-- ☕ Running on coffee and curiosity (but mostly coffee)
-- 📍 Based in Northern Virginia/DC, but always down for spontaneous trips
-- 🐈 Cat parent to Cairo, my energetic and occasionally chaotic pet
-
----
-
-## Tech & Tools I Use:
-
-### Programming:
-- Python, SQL, R, Java, C++
-
-### Machine Learning:
-- Scikit-learn, TensorFlow, PyTorch, XGBoost
-
-### Data Visualization:
-- Tableau, Plotly, Seaborn
-
-### Big Data & Cloud:
-- Apache Spark, Databricks, AWS SageMaker
-
-### NLP:
-- spaCy, Hugging Face Transformers, BERT
-
-### Databases:
-- MySQL, PostgreSQL, MongoDB, Snowflake
-
-### Tools:
-- Docker, Flask, Git, Quarto, CI/CD pipelines
-
-### Statistical Methods:
-- A/B Testing, Regression, Bayesian Analysis
+### What I Bring
+- 📊 Operational analytics, KPI development, and performance reporting  
+- 🤖 Applied machine learning, experimentation, and predictive modeling  
+- 📈 Translating complex analyses into clear, decision-ready insights  
+- ☁️ Scalable analytics using cloud and big data technologies  
 
 ---
 
-## GitHub Stats:
+### Selected Projects & Impact
+
+- **AI-Powered Documentation Assistant**  
+  Built an intelligent chatbot using **LangGraph, FastAPI, and Streamlit** to improve the discoverability and usability of AWS FMBench documentation.  
+  🔗 https://medium.com/@isfarbaset/fmbench-assistant-an-ai-chatbot-for-navigating-foundation-model-benchmarking-with-fmbench-39615ff08161
+
+- **Machine Learning Pipeline for Social Trend Analysis**  
+  Developed an end-to-end ML pipeline to analyze online discourse trends across U.S. states using NLP, feature engineering, and model evaluation.  
+  🔗 https://isfarbaset.github.io/fall-2024-project-team-29/
+
+- **Climate Data Analysis & Storytelling**  
+  Analyzed long-term climate trends in Southeastern Utah National Parks and presented insights through data visualization and narrative.  
+  🔗 https://isfarbaset.georgetown.domains/story-project/_site/
+
+- **EV Market & Sustainability Insights**  
+  Applied machine learning to compare environmental impact, market share, and performance trends of electric versus gasoline vehicles.  
+  🔗 https://isfarbaset.github.io/ev-insights/
+
+---
+
+### Technical Skills
+
+**Languages:** Python, SQL, R, Java, C++  
+**Machine Learning:** Scikit-learn, TensorFlow, PyTorch, XGBoost  
+**Data & Cloud:** Apache Spark, Databricks, AWS SageMaker  
+**Visualization:** Tableau, Plotly, Seaborn  
+**NLP:** spaCy, Hugging Face Transformers, BERT  
+**Databases:** MySQL, PostgreSQL, MongoDB, Snowflake  
+**Tools:** Docker, Flask, Git, Quarto, CI/CD Pipelines  
+**Methods:** A/B Testing, Regression, Bayesian Analysis  
+
+---
+
+### Let’s Connect
+- 🔗 Portfolio: https://isfarbaset.github.io/portfolio/
+- 💼 LinkedIn: https://linkedin.com/in/isfarbaset
+
+📧 **isfar.baset@gmail.com**
+
+---
+
+## GitHub Stats
 ![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/isfarbaset?theme=tokyonight)
-
-## GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=isfarbaset&theme=highcontrast)
 
 ---
 > ✨ Curiosity-led. Detail-driven. Powered by coffee and purpose.
