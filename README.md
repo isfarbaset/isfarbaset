@@ -1,4 +1,4 @@
-## Hi, I’m Isfar 👋🏼
+## Hi, I’m Isfar
 
 **TL;DR:**  
 Data Analyst II with an **M.S. in Data Science from Georgetown**, experienced in **operational analytics, machine learning, and scalable data solutions**, translating complex data into actionable insights across internal operations and digital marketing.
